@@ -1,0 +1,277 @@
+{
+  "animateLoading": true,
+  "borderRadius": "0.375rem",
+  "bottomRow": 15,
+  "boxShadow": "0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05)",
+  "buttonVariant": "TERTIARY",
+  "childStylesheet": {
+    "button": {
+      "buttonColor": "{{appsmith.theme.colors.primaryColor}}"
+    }
+  },
+  "dynamicBindingPathList": [],
+  "dynamicTriggerPathList": [],
+  "groupButtons": {
+    "groupButton1": {
+      "buttonColor": "#18181b",
+      "buttonType": "MENU",
+      "iconAlign": "right",
+      "iconName": "chevron-down",
+      "id": "groupButton1",
+      "index": 0,
+      "isDisabled": false,
+      "isVisible": true,
+      "label": "Electronics",
+      "menuItems": {
+        "menuItem10tepddas2": {
+          "id": "menuItem10tepddas2",
+          "index": 3,
+          "isDisabled": false,
+          "isVisible": true,
+          "label": "Mobile Accessories",
+          "widgetId": "8h03epae0u"
+        },
+        "menuItem2ixc2b2xsz": {
+          "id": "menuItem2ixc2b2xsz",
+          "index": 5,
+          "isDisabled": false,
+          "isVisible": true,
+          "label": "Speakers",
+          "widgetId": "zjfzetz1o7"
+        },
+        "menuItem3rb7yijbze": {
+          "id": "menuItem3rb7yijbze",
+          "index": 1,
+          "isDisabled": false,
+          "isVisible": true,
+          "label": "Laptops",
+          "widgetId": "wzd5baimrx"
+        },
+        "menuItemaosawc911b": {
+          "id": "menuItemaosawc911b",
+          "index": 0,
+          "isDisabled": false,
+          "isVisible": true,
+          "label": "Mobiles",
+          "widgetId": "tbqtrnal2y"
+        },
+        "menuItemsujbukyoet": {
+          "id": "menuItemsujbukyoet",
+          "index": 2,
+          "isDisabled": false,
+          "isVisible": true,
+          "label": "Smart Watches",
+          "widgetId": "khycjpcguc"
+        },
+        "menuItemyfjx0vywt5": {
+          "id": "menuItemyfjx0vywt5",
+          "index": 4,
+          "isDisabled": false,
+          "isVisible": true,
+          "label": "Computer Accessories",
+          "widgetId": "0fmo5neng9"
+        }
+      },
+      "placement": "CENTER",
+      "widgetId": ""
+    },
+    "groupButton2": {
+      "buttonColor": "#231f20",
+      "buttonType": "MENU",
+      "iconAlign": "right",
+      "iconName": "caret-down",
+      "id": "groupButton2",
+      "index": 1,
+      "isDisabled": false,
+      "isVisible": true,
+      "label": "Groceries",
+      "menuItems": {
+        "menuItem2xs9uktqkr": {
+          "id": "menuItem2xs9uktqkr",
+          "index": 4,
+          "isDisabled": false,
+          "isVisible": true,
+          "label": "Dairy & eggs",
+          "widgetId": "od0tk8mv0s"
+        },
+        "menuItemkhge27hr37": {
+          "id": "menuItemkhge27hr37",
+          "index": 3,
+          "isDisabled": false,
+          "isVisible": true,
+          "label": "Household Care",
+          "widgetId": "jab7x3uqw4"
+        },
+        "menuItempb2yils0to": {
+          "id": "menuItempb2yils0to",
+          "index": 0,
+          "isDisabled": false,
+          "isVisible": true,
+          "label": "Staples",
+          "widgetId": "eio6xkdk2g"
+        },
+        "menuItemshr0jx8fqh": {
+          "id": "menuItemshr0jx8fqh",
+          "index": 1,
+          "isDisabled": false,
+          "isVisible": true,
+          "label": "Snacks & Beverages",
+          "widgetId": "nga7t2bnyl"
+        },
+        "menuItemuwlyg1j8az": {
+          "id": "menuItemuwlyg1j8az",
+          "index": 2,
+          "isDisabled": false,
+          "isVisible": true,
+          "label": "Packaged Food",
+          "widgetId": "268xi4pvco"
+        }
+      },
+      "placement": "CENTER",
+      "widgetId": ""
+    },
+    "groupButton3": {
+      "buttonColor": "#231f20",
+      "buttonType": "MENU",
+      "iconAlign": "right",
+      "iconName": "caret-down",
+      "id": "groupButton3",
+      "index": 2,
+      "isDisabled": false,
+      "isVisible": true,
+      "label": "Books",
+      "menuItems": {
+        "menuItem1": {
+          "backgroundColor": "#FFFFFF",
+          "id": "menuItem1",
+          "index": 0,
+          "isDisabled": false,
+          "isVisible": true,
+          "label": "Academics",
+          "onClick": "",
+          "widgetId": ""
+        },
+        "menuItem2": {
+          "backgroundColor": "#FFFFFF",
+          "id": "menuItem2",
+          "index": 1,
+          "isDisabled": false,
+          "isVisible": true,
+          "label": "Literature & Fiction",
+          "onClick": "",
+          "widgetId": ""
+        },
+        "menuItemr0dwltszei": {
+          "id": "menuItemr0dwltszei",
+          "index": 3,
+          "isDisabled": false,
+          "isVisible": true,
+          "label": "Non Fiction",
+          "widgetId": "67zneodamr"
+        },
+        "menuItemwcgpr96kfg": {
+          "id": "menuItemwcgpr96kfg",
+          "index": 2,
+          "isDisabled": false,
+          "isVisible": true,
+          "label": "Self-Help",
+          "widgetId": "ut5lo6uuoe"
+        }
+      },
+      "placement": "CENTER",
+      "widgetId": ""
+    },
+    "groupButton7ht9ovoo14": {
+      "buttonColor": "#231f20",
+      "buttonType": "MENU",
+      "iconAlign": "right",
+      "iconName": "caret-down",
+      "id": "groupButton7ht9ovoo14",
+      "index": 4,
+      "isDisabled": false,
+      "isSeparator": false,
+      "isVisible": true,
+      "itemType": "BUTTON",
+      "label": "Home & Furniture",
+      "menuItems": {},
+      "placement": "CENTER",
+      "variant": "filled",
+      "widgetId": "sxzvvwwpvp"
+    },
+    "groupButtonq9cgw4rg5m": {
+      "buttonColor": "#231f20",
+      "buttonType": "MENU",
+      "iconAlign": "right",
+      "iconName": "caret-down",
+      "id": "groupButtonq9cgw4rg5m",
+      "index": 3,
+      "isDisabled": false,
+      "isSeparator": false,
+      "isVisible": true,
+      "itemType": "BUTTON",
+      "label": "Fashion",
+      "menuItems": {
+        "menuItem1pdchwix96": {
+          "id": "menuItem1pdchwix96",
+          "index": 0,
+          "isDisabled": false,
+          "isVisible": true,
+          "label": "Ethnic Wear",
+          "widgetId": "jp7ay0giv0"
+        },
+        "menuItemfpykrfb8nr": {
+          "id": "menuItemfpykrfb8nr",
+          "index": 2,
+          "isDisabled": false,
+          "isVisible": true,
+          "label": "Bags & Wallet",
+          "widgetId": "tbxag03xon"
+        },
+        "menuItemi09sjzlmge": {
+          "id": "menuItemi09sjzlmge",
+          "index": 3,
+          "isDisabled": false,
+          "isVisible": true,
+          "label": "Party Wear",
+          "widgetId": "vkurtj1rmj"
+        },
+        "menuItemvlev2podn6": {
+          "id": "menuItemvlev2podn6",
+          "index": 1,
+          "isDisabled": false,
+          "isVisible": true,
+          "label": "Foot Wear",
+          "widgetId": "udfx2e0uov"
+        }
+      },
+      "placement": "CENTER",
+      "variant": "filled",
+      "widgetId": "wx6ffyqhc4"
+    }
+  },
+  "isCanvas": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "77065983sz",
+  "leftColumn": 0,
+  "minWidth": 450,
+  "mobileBottomRow": 4,
+  "mobileLeftColumn": 0,
+  "mobileRightColumn": 10,
+  "mobileTopRow": 0,
+  "needsErrorInfo": false,
+  "orientation": "horizontal",
+  "originalBottomRow": 15,
+  "originalTopRow": 11,
+  "parentColumnSpace": 17.625,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 64,
+  "topRow": 11,
+  "type": "BUTTON_GROUP_WIDGET",
+  "version": 1,
+  "widgetId": "b61s6lj624",
+  "widgetName": "ButtonGroup3"
+}
